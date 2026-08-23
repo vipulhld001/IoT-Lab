@@ -44,7 +44,7 @@ An **LDR (Light Dependent Resistor)** or photoresistor relies on the principle o
 
 ---
 
-## 💻 Lab Assignments & Solutions
+## 💻 Lab Assignments & Hints
 
 ### Assignment 1: Basic LDR Reading via Serial
 Read continuous analog voltage values from the LDR sensor and print to Serial Monitor.
