@@ -2,7 +2,6 @@
 
 **Author**: Vipul Singh Negi  
 **Department**: Computer Science Engineering, National Institute of Technology Rourkela  
-**Date**: August 23, 2026  
 
 ---
 
@@ -25,7 +24,7 @@ An **LDR (Light Dependent Resistor)** or photoresistor relies on the principle o
 - **Protective Layer**: Transparent glass/plastic cover protecting the photosensitive element.
 
 <p align="center">
-  <img src="watermarked_img_11353785204385914901.png" alt="Cadmium Sulfide CdS Breaking Bad Logo" width="600"/>
+  <img src="https://cdn.shopify.com/s/files/1/0841/0673/9987/files/ldr-applications_480x480.webp" alt="Cadmium Sulfide CdS Breaking Bad Logo" width="600"/>
 </p>
 
 | Element | Symbol | Atomic Number | Role in LDR |
@@ -67,6 +66,3 @@ Dynamically adjust LED brightness using PWM (`analogWrite`), remapping the 10-bi
 
 ---
 
-## 📜 References
-- National Institute of Technology Rourkela — Department of Computer Science & Engineering
-- IoT Lab Lecture 5: LDR Sensors & Actuator Interfacing
