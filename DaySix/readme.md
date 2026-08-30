@@ -61,8 +61,7 @@ Removing the outer casing of a DHT sensor reveals two primary sensing elements a
 
 The relation between temperature and resistance for the NTC thermistor is governed by the Beta equation:
 
-$$B_{(T_1/T_2)} = rac{T_2 	\times T_1}{T_2 - T_1} 	\times \ln\left(rac{R_1}{R_2}
-\right)$$
+$$B_{(T_1/T_2)} = \frac{T_2 \times T_1}{T_2 - T_1} \times \ln\left(\frac{R_1}{R_2}\right)$$ 
 
 ### Parameter Definitions:
 - $B_{(T_1/T_2)}$: Beta Constant / material sensitivity parameter in Kelvin ($K$), typically between $3000	ext{ K}$ and $5000	ext{ K}$.
