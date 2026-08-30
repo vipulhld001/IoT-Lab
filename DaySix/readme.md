@@ -138,7 +138,7 @@ Complete the following three tasks in your **Lab Record Books**:
 
 1. **Assignment 1:** Interface the DHT sensor with Arduino to measure and output **Relative Humidity**.
 2. **Assignment 2:** Interface the DHT sensor with Arduino to measure and output **Temperature in Celsius**.
-3. **Assignment 3:** Extend the program to convert the measured Celsius temperature into **Fahrenheit** ($F = C 	imes rac{9}{5} + 32$).
+3. **Assignment 3:** Extend the program to convert the measured Celsius temperature into **Fahrenheit**.
 
 ### Submission Requirements:
 - Draw circuit diagrams on the blank page of your Lab Record Book.
