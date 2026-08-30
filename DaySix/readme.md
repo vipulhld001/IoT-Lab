@@ -53,7 +53,7 @@ Removing the outer casing of a DHT sensor reveals two primary sensing elements a
    - "Negative Coefficient" means electrical **resistance decreases as temperature increases**.
 
 3. **Supporting Circuitry:**
-   - Includes a $10	ext{ k}\Omega$ pull-up resistor and a decoupling capacitor on board.
+   - Includes a $10\text{ k}\Omega$ pull-up resistor and a decoupling capacitor on board.
 
 ---
 
@@ -64,8 +64,8 @@ The relation between temperature and resistance for the NTC thermistor is govern
 $$B_{(T_1/T_2)} = \frac{T_2 \times T_1}{T_2 - T_1} \times \ln\left(\frac{R_1}{R_2}\right)$$ 
 
 ### Parameter Definitions:
-- $B_{(T_1/T_2)}$: Beta Constant / material sensitivity parameter in Kelvin ($K$), typically between $3000	ext{ K}$ and $5000	ext{ K}$.
-- $T_1$: Reference baseline temperature in Kelvin ($K$) (typically $25^\circ	ext{C} = 298.15	ext{ K}$).
+- $B_{(T_1/T_2)}$: Beta Constant / material sensitivity parameter in Kelvin ($K$), typically between $3000\text{ K}$ and $5000\text{ K}$.
+- $T_1$: Reference baseline temperature in Kelvin ($K$).
 - $T_2$: Target measured temperature in Kelvin ($K$).
 - $R_1$: Electrical resistance at baseline temperature $T_1$ ($\Omega$).
 - $R_2$: Electrical resistance at target temperature $T_2$ ($\Omega$).
