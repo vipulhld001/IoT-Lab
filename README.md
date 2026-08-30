@@ -10,5 +10,6 @@ by Vipul Singh Negi
 - **Topic 3:** [Working with RGB LED and more](./DayThree/readme.md).
 - **Topic 4:** [Working with IR Sensor](./DayFour/readme.md).
 - **Topic 5:** [Working with LDR Sensor](./DayFive/readme.md).
+- **Topic 5:** [Working with DHT11 Sensor](./DaySix/readme.md).
 
 ---
