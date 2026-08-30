@@ -82,7 +82,11 @@ ight)$$
 - **GND ($-$):** Connect to Arduino **GND**.
 
 ---
-(Connection)[https://technobyte.org/wp-content/uploads/2019/09/CONEXION_DHT11-768x558.jpg]
+
+<p align="center">
+  <img src="https://technobyte.org/wp-content/uploads/2019/09/CONEXION_DHT11-768x558.jpg]" alt="DHT 11 Connection" width="600"/>
+</p>
+
 
 ## 💻 Software Setup & Code
 
