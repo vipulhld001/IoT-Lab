@@ -91,9 +91,7 @@ $$B_{(T_1/T_2)} = \frac{T_2 \times T_1}{T_2 - T_1} \times \ln\left(\frac{R_1}{R_
 ## 💻 Software Setup & Code
 
 ### Installing the Library in Arduino IDE:
-1. Go to **Sketch** $
-ightarrow$ **Include Library** $
-ightarrow$ **Manage Libraries...**
+1. Go to **Sketch** $\rightarrow$ **Include Library** $\rightarrow$ **Manage Libraries...**
 2. Search for and install **`dhtlib`** or **`DHT sensor library` by Rob**.
 
 ---
