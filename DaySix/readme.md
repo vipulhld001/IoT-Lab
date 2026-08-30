@@ -84,7 +84,7 @@ $$B_{(T_1/T_2)} = rac{T_2 	\times T_1}{T_2 - T_1} 	\times \ln\left(rac{R_1}{R_
 ---
 
 <p align="center">
-  <img src="[https://technobyte.org/wp-content/uploads/2019/09/CONEXION_DHT11-768x558.jpg]" alt="DHT 11 Connection"/>
+  <img src="https://github.com/vipulhld001/IoT-Lab/blob/main/DaySix/CONEXION_DHT11-768x558.webp" alt="DHT 11 Connection"/>
 </p>
 
 <p align="center">
