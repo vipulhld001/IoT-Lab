@@ -11,5 +11,6 @@ by Vipul Singh Negi
 - **Topic 4:** [Working with IR Sensor](./DayFour/readme.md).
 - **Topic 5:** [Working with LDR Sensor](./DayFive/readme.md).
 - **Topic 6:** [Working with DHT11 Sensor](./DaySix/readme.md).
+- **Topic 7:** [Working with Temoerature and Soil Moisture Sensor](./DaySeven/readme.md).
 
 ---
