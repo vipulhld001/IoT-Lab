@@ -99,7 +99,10 @@ void loop() {
 * **Applications:** Widely used in automated agricultural irrigation, remote sensing, and hydrological monitoring.
 * **Water Potential Sensors:** Advanced variants (e.g., gypsum blocks, tensiometers) calculate soil water potential rather than purely volumetric content.
 
-https://europe1.discourse-cdn.com/arduino/optimized/4X/3/7/1/371d2a082793927e2574b5d2cfde7aa1e07ddb1e_2_750x750.jpeg
+<p align="center">
+  <img src="https://europe1.discourse-cdn.com/arduino/optimized/4X/3/7/1/371d2a082793927e2574b5d2cfde7aa1e07ddb1e_2_750x750.jpeg" alt="Soil Moisture Sensor" width="600"/>
+</p>
+
 
 ### Water Content Formula & Soil Composition
 
