@@ -1,8 +1,6 @@
 # IoT Lab 8: Motor Control & Actuation
 
 
----
-
 ## 📋 Course Information
 
 - **Course:** Internet of Things (IoT) Lab
