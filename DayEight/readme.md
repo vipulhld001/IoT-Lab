@@ -93,10 +93,3 @@ The **28BYJ-48** stepper motor is driven using a **ULN2003 / ULN2003A** Darlingt
 - **Customization:** Vary motor speed relative to light intensity changes.
 
 ---
-
-## 💻 Sample Arduino Code Snippets
-
-### Assignment 1: Basic Stepper Motor Control
-### Assignment 2: Parking Gate System (IR Sensor)
-### Assignment 3: Automatic Curtain System (LDR Sensor)
-
