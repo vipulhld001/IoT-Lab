@@ -1,6 +1,5 @@
 # IoT Lab 8: Motor Control & Actuation
 
-This repository contains technical notes, schematics, and lab assignment projects for **IoT Lab 8** under the **Department of Computer Science & Engineering, National Institute of Technology Rourkela**.
 
 ---
 
