@@ -89,4 +89,5 @@ The **28BYJ-48** stepper motor is driven using a **ULN2003 / ULN2003A** Darlingt
 - **Behavior:** Control the rotation angle and direction of the motor based on light intensity levels to simulate opening/closing curtains.
 - **Customization:** Vary motor speed relative to light intensity changes.
 
+Made by ❤️ [listening](https://www.youtube.com/watch?v=cvzu3bKgt5Y&list=RDcvzu3bKgt5Y&start_radio=1) to this and [this](https://www.youtube.com/watch?v=_KhsQ3nn6Kw&list=RD_KhsQ3nn6Kw&start_radio=1).
 ---
