@@ -156,5 +156,5 @@ Where:
 
 ---
 
-Made by ❤️ [listening](https://www.youtube.com/watch?v=cvzu3bKgt5Y&list=RDcvzu3bKgt5Y&start_radio=1)) to this and [this](https://www.youtube.com/watch?v=_KhsQ3nn6Kw&list=RD_KhsQ3nn6Kw&start_radio=1).
+Made by ❤️ [listening](https://www.youtube.com/watch?v=cvzu3bKgt5Y&list=RDcvzu3bKgt5Y&start_radio=1) to this and [this](https://www.youtube.com/watch?v=_KhsQ3nn6Kw&list=RD_KhsQ3nn6Kw&start_radio=1).
 
