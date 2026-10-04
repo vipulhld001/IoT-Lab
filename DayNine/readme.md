@@ -148,5 +148,5 @@ Check Examples
 
 Music that goes best with this:
 
-1. Knife Party - Bonfire https://youtu.be/e-IWRmpefzE
-2. The Chemical Brothers - Galvanize https://www.youtube.com/watch?v=Xu3FTEmN-eg&list=RDXu3FTEmN-eg&start_radio=1
+1. Knife Party - [Bonfire] (https://youtu.be/e-IWRmpefzE)
+2. The Chemical Brothers - [Galvanize] (https://www.youtube.com/watch?v=Xu3FTEmN-eg&list=RDXu3FTEmN-eg&start_radio=1)
