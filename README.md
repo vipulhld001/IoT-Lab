@@ -14,5 +14,6 @@ by Vipul Singh Negi
 - **Topic 7:** [Working with Temperature and Soil Moisture Sensor](./DaySeven/readme.md).
 - **Topic 8:** [Working with Motors](./DayEight/readme.md).
 - **Topic 9:** [Introduction to ESP](./DayNine/readme.md).
+- **Topic 10:** [Introduction to Thinkspeak](./DayTen/readme.md).
 
 ---
